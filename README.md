@@ -1,5 +1,5 @@
-# tetris
-Python/Pygameを使ってテトリスを作成しました
+# Tetris
+Python/Pygameを使ってテトリスを作成しました。
 # 参考にした音源
 short_punch1.mp3：https://taira-komori.jpn.org/game01.html  
 shoot4.mp3:https://taira-komori.jpn.org/game01.html  
